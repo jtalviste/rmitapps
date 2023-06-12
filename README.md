@@ -24,6 +24,10 @@ npm install
 npm run dev
 ```
 
+You can click through the router links in order and
+use the pre-entered data. Press the main button on each
+page (in order) and you should see the results.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
